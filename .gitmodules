@@ -1,0 +1,4 @@
+[submodule "front-end-submodule"]
+	path = front-end-submodule
+	url = https://github.com/naitrons/front-end-submodule.git
+	branch = master
